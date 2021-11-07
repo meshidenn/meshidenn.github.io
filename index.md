@@ -15,7 +15,7 @@
   - Aeronoutics and Astronoutics (Bachelor of Engineering)
 
 # Carrer
-- 2018.1- Retrieva.Inc Researcher
+- 2018.1- Retrieva Inc. Researcher
 - 2016.11-2017.12 Retrieva Inc. Sales Enginner
 - 2016.7-2016.10 Preferred Infrastructure Inc. Sales Enginner
 - 2014.6-2016.6 New Energy and Industrial Technology Development Organization Staff
