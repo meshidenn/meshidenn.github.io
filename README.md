@@ -1,2 +1,2 @@
-# paper_survey
-Survey and short summary of ML papers
+# Hiroki Iida
+My self introduction
