@@ -1,44 +1,28 @@
-# Research Interest
-- Information Retrieval
-  - Ranking
-  - Domain Adaptation
+# 研究領域
+- 事前学習ずみ言語モデルを用いた情報検索
+  - ランキング
+  - 領域適合
 
-- Representaiton
-  - word embedding
-  - topic model
+- 表現学習
+  - 単語表現・文表現
+# 職歴
+- 2018.1- [株式会社レトリバ](https://retrieva.jp/) リサーチャー
+- 2016.11-2017.12 [株式会社レトリバ](https://retrieva.jp/) セールスエンジニア
+- 2016.7-2016.10 株式会社Preferred Infrastructure Inc. セールスエンジニア
+- 2014.6-2016.6 [国立研究開発法人新エネルギー・産業技術総合開発機構](https://www.nedo.go.jp/)
 
-# Education
-- 2020.4 - (Current) Tokyo Institute of Technology Okazaki Lab
-- 2012.4 -2014.3 The University of Tokyo
-  - Aeronoutics and Astronoutics (Master of Enginnering)
-- 2008.4 - 2012.4 The University of Tokyo
-  - Aeronoutics and Astronoutics (Bachelor of Engineering)
+# 学歴
+- 2020.4 - 東京工業大学情報理工学院情報工学系知能情報コース博士課程　[岡崎研究室](https://www.nlp.c.titech.ac.jp/index.ja.html)
+- 2019.11 MicroMasters of Statistics and DataScience from Massachusetts Institute of Technology
+- 2012.4 -2014.3 東京大学大学院工学系研究科航空宇宙工学専攻修士課程 [藤井研究室](https://flab.eng.isas.jaxa.jp/collaboration/index-student.html)
+- 2010.4 - 2012.4 東京大学工学部航空宇宙工学科
+- 2008.4 - 2010.3 東京大学教養学部理科一類
 
-# Carrer
-- 2018.1- Retrieva Inc. Researcher
-- 2016.11-2017.12 Retrieva Inc. Sales Enginner
-- 2016.7-2016.10 Preferred Infrastructure Inc. Sales Enginner
-- 2014.6-2016.6 New Energy and Industrial Technology Development Organization Staff
-
-# Publication
-## Refereed
-### Conference
-- Hiroki Iida and Naoaki Okazaki. Incorporating Semantic Textual Similarity and Lexical Matching for Information Retrieval. In Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 35 (2021)), pages (to appear), November 2021
-- 阿部 圭晃, 野々村 拓, 近藤 勝俊, 飯田 大貴, 渡辺 毅, 池田 俊之, 小石 正隆, 山本 誠, 藤井 孝藏 回転するタイヤ周りに発生する空力音の数値解析 第27回数値流体力学シンポジウム講演論文集 A10-2-A10-2 2013年12月 
-
-
-## Unreferreed
-- 飯田大貴、大山聖、藤井孝藏 固有直交分解を用いたクラスタリングによる翼型形状最適化結果の詳細分析 進化計算シンポジウム2013年12月
-- 立川智章、飯田大貴、野々村拓、大山聖、藤井孝藏 POD を用いたロケット射点形状多目的設計問題の非劣解の分析 進化計算シンポジウム2013年12月
-- 飯田大貴, 佐々木岳, 大山聖, 藤井孝藏, 米本浩一 翼型形状のクラスタリングによる非劣解の分析方法の提案　進化計算シンポジウム2012年12月
-
-
-# 受賞
-- ベストCFDグラフィックスアワード 第２７回数値流体力学シンポジウム
 
 # Link
 - [twitter](https://twitter.com/HIROKIIIDA7)
 - [github](https://github.com/meshidenn)
+- [Qiita](https://qiita.com/meshidenn)
 - [LinkedIn](https://www.linkedin.com/in/iida-hiroki-9b79b986/)
 - [speakerdeck](https://speakerdeck.com/meshidenn)
 - [slideshare](https://www.slideshare.net/hirokiiida165)
