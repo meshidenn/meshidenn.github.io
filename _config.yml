@@ -1,5 +1,6 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 title: Hiroki Iida
 description: Researcher@Retrieva.Inc and Ph.D student at Tokyo Tech, Okazaki lab.
 github:
   is_project_page: false
+  show_downloads: false
