@@ -1,14 +1,14 @@
 # Publication
 ## Conference Papers
-- Hiroki Iida and Naoaki Okazaki
-- Hiroki Iida and Naoaki Okazaki. Incorporating Semantic Textual Similarity and Lexical Matching for Information Retrieval. In Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 35 (2021)), pages (to appear), November 2021
+- Hiroki Iida and Naoaki Okazaki. Unsupervised Domain Adaptation for Sparse Retrieval by Filling Vocabulary and Word Frequency Gaps. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL), pages (to appear), online, November 2022. [link](https://arxiv.org/abs/2211.03988)
+- Hiroki Iida and Naoaki Okazaki. Incorporating Semantic Textual Similarity and Lexical Matching for Information Retrieval. In Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC), pages 582–591, Shanghai, China, November 2021 [link](https://aclanthology.org/2021.paclic-1.61/)
 
 # 国内
 ## 国内ジャーナル
-- 飯田 大貴, 岡崎 直観. Zero-shot ニューラル検索のための語彙一致と文脈の類似度による関連度スコアリング. 情報処理学会論文誌データベース(TOD), 95:(to appear), 2022年10月.
+- 飯田 大貴, 岡崎 直観. Zero-shot ニューラル検索のための語彙一致と文脈の類似度による関連度スコアリング. 情報処理学会論文誌データベース(TOD), 95, 2022年10月.
 
 ## 国内会議
-- 阿部 圭晃, 野々村 拓, 近藤 勝俊, 飯田 大貴, 渡辺 毅, 池田 俊之, 小石 正隆, 山本 誠, 藤井 孝藏 回転するタイヤ周りに発生する空力音の数値解析 第27回数値流体力学シンポジウム講演論文集 A10-2-A10-2 2013年12月 
+- 阿部 圭晃, 野々村 拓, 近藤 勝俊, 飯田 大貴, 渡辺 毅, 池田 俊之, 小石 正隆, 山本 誠, 藤井 孝藏 回転するタイヤ周りに発生する空力音の数値解析 第27回数値流体力学シンポジウム講演論文集 A10-2-A10-2 2013年12月
 
 
 ## 口頭発表
