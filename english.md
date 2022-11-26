@@ -3,8 +3,7 @@
   - Ranking
   - Domain Adaptation
 
-- Representation
-  - word embedding
+- Representation: word and sentence embedding
 
 # Carrer
 - 2018.1- [Retrieva Inc.](https://retrieva.jp/) Researcher
